@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "Product_Name": "Smartphone",
+        "Product_Image": "https://i.imgur.com/i1Mmn0d.jpg",
+        "Price": 499.99,
+        "Category": "Electronics",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 2,
+        "Product_Name": "Laptop",
+        "Product_Image": "https://i.imgur.com/qT4G9bf.jpg",
+        "Price": 899.99,
+        "Category": "Electronics",
+        "Availability": "Out of Stock"
+    },
+    {
+        "id": 3,
+        "Product_Name": "Running Shoes",
+        "Product_Image": "https://i.imgur.com/yNT63tU.jpg",
+        "Price": 79.99,
+        "Category": "Sports & Outdoors",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 4,
+        "Product_Name": "Coffee Maker",
+        "Product_Image": "https://i.imgur.com/l7LEYgC.jpg",
+        "Price": 129.99,
+        "Category": "Home & Kitchen",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 5,
+        "Product_Name": "Headphones",
+        "Product_Image": "https://i.imgur.com/YAE30wH.jpg",
+        "Price": 59.99,
+        "Category": "Electronics",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 6,
+        "Product_Name": "Tennis Racket",
+        "Product_Image": "https://i.imgur.com/O6L6KzK.jpg",
+        "Price": 49.99,
+        "Category": "Sports & Outdoors",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 7,
+        "Product_Name": "Blender",
+        "Product_Image": "https://i.imgur.com/UN6uiSS.jpg",
+        "Price": 79.99,
+        "Category": "Home & Kitchen",
+        "Availability": "Out of Stock"
+    },
+    {
+        "id": 8,
+        "Product_Name": "Smartwatch",
+        "Product_Image": "https://i.imgur.com/j0Xpp5p.jpg",
+        "Price": 129.99,
+        "Category": "Electronics",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 9,
+        "Product_Name": "Running Shorts",
+        "Product_Image": "https://i.imgur.com/KDIzz82.jpg",
+        "Price": 29.99,
+        "Category": "Sports & Outdoors",
+        "Availability": "In Stock"
+    },
+    {
+        "id": 10,
+        "Product_Name": "Toaster",
+        "Product_Image": "https://i.imgur.com/5dZ4ATR.jpg",
+        "Price": 39.99,
+        "Category": "Home & Kitchen",
+        "Availability": "In Stock"
+    }
+]
+  
+
