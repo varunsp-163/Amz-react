@@ -34,7 +34,7 @@ const Filter = () => {
       } else if (availability) {
         return item.Availability === availability;
       }
-      return true;
+     
     });
 
     setProducts(filteredProducts);
